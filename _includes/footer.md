@@ -1,4 +1,4 @@
 
 
-Authored by James Richardson. Theme created by Tim O'Brien [t413.com](http://t413.com/).
+Authored by James Richardson. Theme created by [Tim O'Brien](http://t413.com/).
 
