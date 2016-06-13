@@ -15,13 +15,14 @@ Here're some examples:
   - [@opsbug Tech Inoculator](http://increasingprobability.com/) ([source](https://github.com/increasingprobability/increasingprobability.github.io))
   - [Mobi student organization](https://idappthat.github.io/)-- Mobile UX @ University of Texas at Arlington ([source](https://github.com/idappthat/idappthat.github.io))
 - **Open Source Projects:**
-  - [EssayMaker](http://getessaymaker.com) science fair project made to help write essays.
+  - [argon.js](http://argonjs.io/) JS framework for adding augmented reality to web apps ([source](https://github.com/argonjs/argonjs.github.io))
   - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
   - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
   - [Langmuir](https://langmuirsim.github.io/) Charge transfer simulations in organic electronics. ([source](https://github.com/LangmuirSim/langmuirsim.github.io))
   - [OSX Privacy](http://osxprivacy.com/)-- exposing OS X Yostemite privacy issues ([source](https://github.com/maxx/osxprivacy))
   - [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
   - [HTML Tidy Advocacy Community Group](http://www.htacg.org/) ([source](https://github.com/htacg/htacg.github.io))
+  - [EssayMaker](http://getessaymaker.com) science fair project made to help write essays.
   - [AfriLeaks](http://codeforafrica.github.io/AfriLeaks-Landing-Page/) (since changed, still cool!) - secure whistleblowers confidential submition project page ([source when single-paged](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page/tree/698e3b0b1a67cc5f072ccd3a8f24b6d5e3ad406a))
   - [FitNesse](http://fitnesse-eclipse.github.io/) Eclipse Plugin ([source](https://github.com/fitnesse-eclipse/fitnesse-eclipse.github.io))
   - [Akanda](http://akanda.io/) Network Virtualization ([source](https://github.com/akanda/akanda.io))
@@ -32,11 +33,13 @@ Here're some examples:
   - [The Rosette Platform](https://rosette-proj.github.io/)- git-based, internationalization framework (Ruby) ([source](https://github.com/rosette-proj/rosette-proj.github.io))
   - [PHP Cat](http://phpcat.github.io/phpcat/) PHP Developer Group in Catalan (grup de desenvolupadors PHP de llengua catalana) ([source](https://github.com/phpcat/phpcat/))
   - [Alt.Net Australia User Group](http://www.ozalt.net/) ([source](https://github.com/ozaltnet/ozaltnet.github.io))
+  - [FeedReader](http://jangernert.github.io/feedreader/) Desktop RSS client ([source](https://github.com/jangernert/feedreader/tree/gh-pages))
 - **Events / Confrences**
   - [Code Across 2015 @Seoul](http://codeforseoul.org/codeacross/) 전 세계 시빅해커들과 함께 하는 ([source](https://github.com/codeforseoul/codeacross))
   - [ACEMP - OPTIM - Electromotion](http://odtu.github.io/acemp/) Joint International Conference in Side, Turkey ([source](https://github.com/odtu/acemp/))
   - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
   - [FSU Festival of New Music](https://fsufnm.github.io/) (17th Biennial) ([source](https://github.com/fsufnm/fsufnm.github.io))
+  - [Open CoMo](http://jakewins.github.io/opencomo-site/) Open-Data Incubator for Columbia, MO. 13th-15th of November 2015 ([source](https://github.com/jakewins/opencomo-site))
 - **Personal:**
   - [Karen and Scott wedding](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
   - [ryan & rachel wedding](https://r-and-r.github.io/) ([source](https://github.com/r-and-r/r-and-r.github.io))
@@ -49,9 +52,11 @@ Here're some examples:
   - [Helpers in Korea](https://itgame.github.io/) ([source](https://github.com/itgame/itgame.github.io))
   - Zeno- internet for gamers original teaser page: ([source](https://github.com/zenoio/zenoio.github.io))
 - **Resumes:**
+  - [Péter Sólymos](http://peter.solymos.org/) resume ([source](https://github.com/psolymos/psolymos.github.io))
   - [Sumedha Pramod](http://www.pramod.ninja/) resume ([source](https://github.com/pramodsum/pramodsum.github.io))
   - [Jiawei Gao](http://jiaweigao.github.io/) resume ([source](https://github.com/jiaweigao/jiaweigao.github.io))
   - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) professional page ([source](https://github.com/strongrobert/MagicianSanFrancisco))
+  - [Riderman de Sousa Barbosa](http://ridermansb.me/) Asp.net developer ([source](https://github.com/Ridermansb/ridermansb.github.io))
   - [Lia Bogoev](https://bogoli.github.io/) UX designer from utah ([source](https://github.com/bogoli/bogoli.github.io))
   - [Péter Sólymos](http://peter.solymos.org/) resume ([source](https://github.com/psolymos/psolymos.github.io))
   - [Bill Ryan](http://www.yuanbin.me/)'s homepage is a snazzy personal example! ([source](https://github.com/billryan/homepage))
